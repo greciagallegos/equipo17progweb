@@ -1,6 +1,5 @@
 # equipo17progweb
 actividades de programacion web
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
