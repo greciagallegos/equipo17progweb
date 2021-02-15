@@ -22,7 +22,6 @@ actividades de programacion web
     </tr>
   </tbody>
 </table>
-<div><a href="clase 1.docx" tabindex="7" title="clase 1" accesskey="1" target="new">Resumen 1</a></div>
 <img src="fondo.jpg" width="1331" height="1331" alt=""/><img src="equipo17.jpg" width="1325" height="353" alt=""/>
 </body>
 </html>
