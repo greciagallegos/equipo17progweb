@@ -4,7 +4,6 @@ actividades de programacion web
 <html>
 <head>
 <meta charset="utf-8">
-<title>practica1</title>
 </head>
 <table width="200" border="1">
   
