@@ -17,7 +17,7 @@ actividades de programacion web
     <tr>
 <th scope="col"><button class="btn btn-primary" type="button" disabled> </button>
   <button class="btn btn-primary" type="button" disabled> </button>
-  <a href="practica 1.html"> PRACTICA 1 </a><a href="practica 1.html"> </a><a href="practica 1.html"> </a>
+  <p><a href="practica 1.html"> PRACTICA 1 </a><a href="practica 1.html"> </a><a href="practica 1.html"> </a></p>
     <figure>
       <figcaption> 2/M6 1737559 Francisco Salvador Flores Juárez francisco.floresju@uanl.edu.mx (Representante)&nbsp;</figcaption>
       <figcaption>2/M6 1901085 Saul David Moreno Franzua Saul.morenofr@uanl.edu.mx</figcaption>
