@@ -5,7 +5,6 @@ actividades de programacion web
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>practica1</title>
 <link href="file:///C|/Users/Greci/AppData/Roaming/Adobe/Dreamweaver 2021/es_MX/Configuration/Temp/Assets/eamC55A.tmp/css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
 </head>
 <table width="200" border="1">
@@ -18,7 +17,7 @@ actividades de programacion web
     <tr>
 <th scope="col"><button class="btn btn-primary" type="button" disabled> </button>
   <button class="btn btn-primary" type="button" disabled> </button>
-  <a href="practica 1.html"> Loading... </a><a href="practica 1.html"> </a><a href="practica 1.html"> </a>
+  <a href="practica 1.html"> PRACTICA 1 </a><a href="practica 1.html"> </a><a href="practica 1.html"> </a>
     <figure>
       <figcaption> 2/M6 1737559 Francisco Salvador Flores Juárez francisco.floresju@uanl.edu.mx (Representante)&nbsp;</figcaption>
       <figcaption>2/M6 1901085 Saul David Moreno Franzua Saul.morenofr@uanl.edu.mx</figcaption>
